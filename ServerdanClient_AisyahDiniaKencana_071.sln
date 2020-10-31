@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.1259
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServerdanClient_AisyahDiniaKencana_071", "ServerdanClient_AisyahDiniaKencana_071\ServerdanClient_AisyahDiniaKencana_071.csproj", "{DB022B21-C940-4C80-A8EB-6A0DD1C712A0}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Client_AisyahDiniaKencana_071", "ServerdanClient_AisyahDiniaKencana_071\Client_AisyahDiniaKencana_071.csproj", "{DB022B21-C940-4C80-A8EB-6A0DD1C712A0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Server_AisyahDiniaKencana_071", "Server_AisyahDiniaKencana_071\Server_AisyahDiniaKencana_071.csproj", "{DDED868C-2F43-4F14-8F2B-0A40DFA352C8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{DB022B21-C940-4C80-A8EB-6A0DD1C712A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DB022B21-C940-4C80-A8EB-6A0DD1C712A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DB022B21-C940-4C80-A8EB-6A0DD1C712A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DDED868C-2F43-4F14-8F2B-0A40DFA352C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDED868C-2F43-4F14-8F2B-0A40DFA352C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDED868C-2F43-4F14-8F2B-0A40DFA352C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDED868C-2F43-4F14-8F2B-0A40DFA352C8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
